@@ -2,4 +2,4 @@
 
 ## the assetfiles sub-repo contains two files
 - `Vagrantfile` : This is vagrant configuration file.
-- `website_setup_script.sh` : Script file to automate the installation of dependencies, provisioning services, fetching and deploying artifacts onto the Apache HTTP Server
+- `website_setup_script.sh` : Script file to automate the installation of dependencies, provisioning services, fetching and deploying artifacts onto the Apache HTTP Server. It is a light demonstration of the potential bash scripting holds in automation of IT OPs.
